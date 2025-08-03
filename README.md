@@ -1,10 +1,10 @@
 <img src="logo.png" alt="IIT Mandi" width="300"/>
-<h1 align="center">Summer Internship 2025 – Dam Crack Detection Project</h1>
+<h1 align="center">Summer Internship 2025 – Computer Vision in Underwater Autonoumous Vehicles</h1>
 
 <p align="center">
   <b>Collaborating Institution:</b> Indian Institute of Technology Mandi<br/>
-  <b>Intern:</b> Wilfred Auxilian<br/>
-  <b>Project Duration:</b> June–July 2025
+  <b>Intern:</b> G Wilfred Auxilian<br/>
+  <b>Project Duration:</b> June–August 2025
 </p>
 
 
