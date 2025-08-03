@@ -1,3 +1,4 @@
+<img src="logo.png" alt="IIT Mandi" width="150"/>
 
 
 
