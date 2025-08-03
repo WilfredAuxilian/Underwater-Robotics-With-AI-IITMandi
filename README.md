@@ -7,7 +7,7 @@
   <b>Project Duration:</b> June–August 2025
 </p>
 
-
+<b>Kindly check the problem statement files for more info and you can contact me if you have doubts or queries</b>
 
 
 
