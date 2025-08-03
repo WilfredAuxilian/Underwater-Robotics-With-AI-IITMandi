@@ -1,4 +1,4 @@
-<img src="logo.png" alt="IIT Mandi" width="150"/>
+<img src="logo.png" alt="IIT Mandi" width="300"/>
 
 
 
